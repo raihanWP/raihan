@@ -1,0 +1,1039 @@
+/*our first blogh area start*/
+.bg {
+	width: 1349px;
+	height: 100px;
+	background: #262626;
+	position: relative;
+	z-index: 0;
+	left: 0px;
+	right: 0px;
+}
+.bg-a {
+	width: 230px;
+	height: 30px;
+	font-size: 21px;
+	color: #fff;
+	position: absolute;
+	top: 60px;
+}
+.bg-b a {
+	width: 60px;
+	height: 30px;
+	color: silver;
+	text-decoration: none;
+	font-size: 20px;
+	position: absolute;
+	top: 60px;
+	left: 250px;
+}
+.bg-b a:hover {
+	color: #fff;
+}
+.bg-c a {
+	width: 60px;
+	height: 30px;
+	color: silver;
+	text-decoration: none;
+	font-size: 20px;
+	position: absolute;
+	top: 60px;
+	left: 330px;
+}
+.bg-c a:hover {
+	color: #fff;
+}
+.bg-d a {
+	width: 60px;
+	height: 30px;
+	color: silver;
+	text-decoration: none;
+	font-size: 20px;
+	position: absolute;
+	top: 60px;
+	left: 420px;
+}
+.bg-d a:hover {
+	color: #fff;
+}
+.bg-e a {
+	width: 60px;
+	height: 30px;
+	color: silver;
+	text-decoration: none;
+	font-size: 20px;
+	position: absolute;
+	top: 60px;
+	left: 510px;
+}
+.bg-e a:hover {
+	color: #fff;
+}
+.bg-f a {
+	width: 60px;
+	height: 30px;
+	color: silver;
+	text-decoration: none;
+	font-size: 20px;
+	position: absolute;
+	top: 60px;
+	left: 620px;
+}
+.bg-f a:hover {
+	color: #fff;
+}
+.bg-g a {
+	width: 70px;
+	height: 30px;
+	color: silver;
+	text-decoration: none;
+	font-size: 20px;
+	position: absolute;
+	top: 60px;
+	left: 710px;
+}
+.bg-g a:hover {
+	color: #fff;
+}
+
+.bg-h a {
+	width: 70px;
+	height: 30px;
+	color: silver;
+	text-decoration: none;
+	font-size: 20px;
+	position: absolute;
+	top: 10px;
+	left: 890px;
+}
+.bg-h a:hover {
+	color: #fff;
+}
+.bg-i a {
+	width: 100px;
+	height: 30px;
+	color: silver;
+	text-decoration: none;
+	font-size: 18px;
+	position: absolute;
+	top: 10px;
+	left: 970px;
+}
+.bg-i a:hover {
+	color: #fff;
+}
+.bg-j a {
+	width: 120px;
+	height: 30px;
+	color: silver;
+	text-decoration: none;
+	font-size: 18px;
+	position: absolute;
+	top: 10px;
+	left: 1110px;
+}
+.bg-j a:hover {
+	color: #fff;
+}
+.bg-k a {
+	width: 100px;
+	height: 40px;
+	text-align: right;
+	color: #42433E;
+	text-decoration: none;
+	font-size: 23px;
+	background: silver;
+	border-radius: 5px;
+	position: absolute;
+	top: 0px;
+	left: 1240px;
+}
+.bg-k a i {
+	color: blue;
+	position: absolute;
+	top: 5px;
+	left: 1px;
+}
+.bg-k a:hover {
+	color: #FF9900;
+}
+/*our first blogh area end*/
+
+/*our second blogh area start*/
+.bgr {
+	width: 1349px;
+	height: 30px;
+	background: #fff;
+	position: relative;
+	top: -16px;
+
+}
+.bgr:before {
+	content: "";
+	width: 20px;
+	height: 15px;
+	transform: rotate(45deg);
+	background: #fff;
+
+	position: absolute;
+	left: 100px;
+	bottom: 17px;
+	z-index: 0;
+}
+.bgr .lu {
+	list-style: none;
+
+}
+.bgr .lu .il {
+	color: silver;
+	display: inline-block;
+	padding: 10px;
+
+}
+.bgr .lu .il:hover {
+	color: orange;
+}
+/*our second blogh area end*/
+
+/*our third logh area start*/
+.third {
+	width: 1349px;
+	height: 300px;
+	background: url(grr.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	position: absolute;
+}
+.third .ttl {
+	color: #fff;
+	font-size: 40px;
+
+	position: absolute;
+	top: 10px;
+	left: 200px;
+}
+.ggff {
+	width: 25px;
+	height: 20px;
+	background: #fff;
+	position: absolute;
+	top: 205px;
+	left: 830px;
+}
+.ggff:hover {
+	background: silver;
+}
+.ggff  i  {
+	color: silver;
+	text-align: center;
+	position: absolute;
+	top: 2px;
+	left: 4px;
+
+}
+.ggff  i:hover {
+	color: #fff;
+}
+.third p {
+	color: #fff;
+	font-size: 25px;
+
+	position: absolute;
+	top: 80px;
+	left: 148px;
+}
+.third form input {
+	position: relative;
+	top: 0px;
+	left: 240px;
+}
+.third form table td {
+	color: aqua;
+	font-size: 20px;
+	position: absolute;
+	left: 440px;
+	top: 200px;
+}
+
+/*our third blogh area end*/
+
+/*our fourth blogh area start*/
+.fourth {
+	width: 1349px;
+	height: 400px;
+	background: #F5F5F5;
+	position: relative;
+	top: 280px;
+}
+.fourth p {
+	width: 800px;
+	height: 20px;
+	color: #454545;
+	font-size: 35px;
+	position: absolute;
+	top: 35px;
+	left: 25%;
+
+}
+.fourth .bgg {
+	width: 1100px;
+	height: 30px;
+	color: #5C5454;
+	text-align: center;
+	font-size: 20px;
+	position: absolute;
+	top: 100px;
+	left: 100px;
+}
+.fourth .i-2 {
+	position: absolute;
+	top: 240px;
+	left: 110px;
+
+}
+.fourth .i-3 {
+	position: absolute;
+	top: 240px;
+	left: 210px;
+
+}
+.fourth .i-4 {
+	position: absolute;
+	top: 240px;
+	left: 310px;
+
+}
+.fourth .i-5 {
+	position: absolute;
+	top: 240px;
+	left: 410px;
+
+}
+.fourth .i-6 {
+	position: absolute;
+	top: 240px;
+	left: 510px;
+
+}
+.fourth .i-7 {
+	position: absolute;
+	top: 240px;
+	left: 610px;
+
+}
+.fourth .i-8 {
+	position: absolute;
+	top: 240px;
+	left: 710px;
+
+}
+.fourth .i-9 {
+	position: absolute;
+	top: 240px;
+	left: 810px;
+
+}
+.fourth .i-10 {
+	position: absolute;
+	top: 240px;
+	left: 910px;
+
+}
+.fourth .i-11 {
+	position: absolute;
+	top: 240px;
+	left: 1010px;
+
+}
+.fourth .i-12 {
+	position: absolute;
+	top: 240px;
+	left: 1110px;
+
+}
+.fourth input {
+	position: absolute;
+	top: 200px;
+}
+.fourth .link a {
+	color: red;
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+	border-radius: 10px;
+	background: lime;
+	position: absolute;
+	top: 350px;
+	left: 40%;
+
+}
+/*our fourth blogh area end*/
+
+
+
+/*our them area start and extra them*/
+.tab {
+	width: 1345px;
+	height: 560px;
+	background: #F9F9FA;
+	position: relative;
+	top: 300px;
+}
+
+
+.top  {
+	width: 300px;
+	height: 260px;
+	background: silver;
+	position: absolute;
+	overflow: hidden;
+}
+.top i {
+	color: #fff;
+	font-size: 100px;
+	transform: scale(1);
+	position: absolute;
+	left: 110px;
+	top: 50px;
+	transition: .5s;
+}
+.top:hover i {
+	color: #FFE845;
+	transform: scale(1.2);
+}
+.top:before {
+	content: "";
+	width: 300px;
+	height: 5px;
+	background: #FFD412;
+	position: absolute;
+	bottom: 0;
+	left: -310px;
+	transition: 1s;
+}
+.top:hover:before {
+	left: 0;
+}
+
+
+.let {
+	width: 300px;
+	height: 260px;
+	background: silver;
+	position: absolute;
+	left: 350px;
+	overflow: hidden;
+}
+.let:before {
+	content: "";
+	width: 300px;
+	height: 5px;
+	background: #FFD412;
+	position: absolute;
+	bottom: 0;
+	left: -310px;
+	transition: 1s;
+}
+.let:hover:before {
+	left: 0;
+}
+.let i {
+	color: #fff;
+	font-size: 100px;
+	position: absolute;
+	left: 100px;
+	top: 50px;
+	transition: 1s;
+}
+.let:hover i {
+	color: #FFE845;
+	transform: scale(1.2);
+}
+
+
+.set {
+	width: 300px;
+	height: 260px;
+	background: silver;
+	position: absolute;
+	left: 700px;
+	overflow: hidden;
+}
+.set:before {
+	content: "";
+	width: 300px;
+	height: 5px;
+	background: #FFD412;
+	position: absolute;
+	bottom: 0;
+	left: -310px;
+	transition: 1s;
+}
+.set:hover:before {
+	left: 0;
+}
+.set i {
+	color: #fff;
+	font-size: 100px;
+	position: absolute;
+	left: 95px;
+	top: 50px;
+	transition: 1s;
+}
+.set:hover i {
+	color: #FFE845;
+	transform: scale(1.2);
+}
+
+
+.get {
+	width: 300px;
+	height: 260px;
+	background: silver;
+	position: absolute;
+	left: 1050px;
+	overflow: hidden;
+}
+.get:before {
+	content: "";
+	width: 300px;
+	height: 5px;
+	background: #FFD412;
+	position: absolute;
+	bottom: 0;
+	left: -310px;
+	transition: 1s;
+}
+.get:hover:before {
+	left: 0;
+}
+.get i {
+	color: #fff;
+	font-size: 100px;
+	position: absolute;
+	left: 110px;
+	top: 50px;
+	transition: 1s;
+}
+.get:hover i {
+	color: #FFE845;
+	transform: scale(1.2);
+}
+
+
+.got {
+	width: 300px;
+	height: 260px;
+	background: silver;
+	position: absolute;
+	top: 300px;
+	overflow: hidden;
+}
+.got:before {
+	content: "";
+	width: 300px;
+	height: 5px;
+	background: #FFD412;
+	position: absolute;
+	bottom: 0;
+	left: -310px;
+	transition: 1s;
+}
+.got:hover:before {
+	left: 0;
+}
+.got i {
+	color: #fff;
+	font-size: 100px;
+	position: absolute;
+	left: 90px;
+	top: 50px;
+	transition: 1s;
+}
+.got:hover i {
+	color: #FFE845;
+	transform: scale(1.2);
+}
+
+
+.jak {
+	width: 300px;
+	height: 260px;
+	background: silver;
+	position: absolute;
+	top: 300px;
+	left: 350px;
+	overflow: hidden;
+}
+.jak:before {
+	content: "";
+	width: 300px;
+	height: 5px;
+	background: #FFD412;
+	position: absolute;
+	bottom: 0;
+	left: -310px;
+	transition: 1s;
+}
+.jak:hover:before {
+	left: 0;
+}
+.jak i {
+	color: #fff;
+	font-size: 100px;
+	position: absolute;
+	left: 110px;
+	top: 50px;
+	transition: 1s;
+}
+.jak:hover i {
+	color: #FFE845;
+	transform: scale(1.2);
+}
+
+
+.tta {
+	width: 300px;
+	height: 260px;
+	background: silver;
+	position: absolute;
+	top: 300px;
+	left: 700px;
+	overflow: hidden;
+}
+.tta:before {
+	content: "";
+	width: 300px;
+	height: 5px;
+	background: #FFD412;
+	position: absolute;
+	bottom: 0;
+	left: -310px;
+	transition: 1s;
+}
+.tta:hover:before {
+	left: 0;
+}
+.tta i {
+	color: #fff;
+	font-size: 100px;
+	position: absolute;
+	left: 100px;
+	top: 50px;
+	transition: 1s;
+}
+.tta:hover i {
+	color: #FFE845;
+	transform: scale(1.2);
+}
+
+
+.tat {
+	width: 300px;
+	height: 260px;
+	background: silver;
+	position: absolute;
+	top: 300px;
+	left: 1050px;
+	overflow: hidden;
+}
+.tat:before {
+	content: "";
+	width: 300px;
+	height: 5px;
+	background: #FFD412;
+	position: absolute;
+	bottom: 0;
+	left: -310px;
+	transition: 1s;
+}
+.tat:hover:before {
+	left: 0;
+}
+.tat i {
+	color: #fff;
+	font-size: 100px;
+	position: absolute;
+	left: 90px;
+	top: 55px;
+	transition: 1s;
+}
+.tat:hover i {
+	color: #FFE845;
+	transform: scale(1.2);
+}
+
+
+.ppa-1 {
+	color: #fff;
+	font-size: 30px;
+	position: absolute;
+	left: 75px;
+	top: 130px;
+	transition: 1s;
+}
+.top:hover .ppa-1 {
+	color: #FFE845;
+	transform: scale(1.2);
+}
+.ppb-2 {
+	color: #fff;
+	font-size: 30px;
+	position: absolute;
+	left: 130px;
+	top: 125px;
+	transition: 1s;
+}
+.let:hover .ppb-2 {
+	color: #FFE845;
+	transform: scale(1.2);
+}
+.ppc-3 {
+	color: #fff;
+	font-size: 30px;
+	position: absolute;
+	left: 75px;
+	top: 130px;
+	transition: 1s;
+}
+.set:hover .ppc-3 {
+	color: #FFE845;
+	transform: scale(1.2);
+}
+.ppd-4 {
+	color: #fff;
+	font-size: 30px;
+	position: absolute;
+	left: 75px;
+	top: 130px;
+	transition: 1s;
+}
+.get:hover .ppd-4 {
+	color: #FFE845;
+	transform: scale(1.2);
+}
+.ppe-5 {
+	color: #fff;
+	font-size: 30px;
+	position: absolute;
+	left: 80px;
+	top: 130px;
+	transition: 1s;
+}
+.got:hover .ppe-5 {
+	color: #FFE845;
+	transform: scale(1.2);
+}
+.ppf-6 {
+	color: #fff;
+	font-size: 30px;
+	position: absolute;
+	left: 85px;
+	top: 130px;
+	transition: 1s;
+}
+.jak:hover .ppf-6 {
+	color: #FFE845;
+	transform: scale(1.2);
+}
+.ppg-7 {
+	color: #fff;
+	font-size: 30px;
+	position: absolute;
+	left: 95px;
+	top: 130px;
+	transition: 1s;
+}
+.tta:hover .ppg-7 {
+	color: #FFE845;
+	transform: scale(1.2);
+}
+.pph-8 {
+	color: #fff;
+	font-size: 30px;
+	position: absolute;
+	left: 95px;
+	top: 130px;
+	transition: 1s;
+}
+.tat:hover .pph-8 {
+	color: #FFE845;
+	transform: scale(1.2);
+}
+/*our extra them blogh area end*/
+.section {
+	text-align: center;
+	margin-top: 350px;
+	margin-bottom: -250px;
+}
+.title {
+	font-size: 50px;
+	position: relative;
+	display: inline-block;
+}
+.title h3 {
+	color: #6D6E71;
+	margin: 0;
+	padding: 0;
+}
+
+.title span {
+	width: 10px;
+	height: 10px;
+	background: #414141;
+	display: block;
+	transform: rotate(45deg);
+
+	position: absolute;
+	left: 50%;
+	bottom: -15px;
+	margin-left: -5px;
+}
+.title .span-a-1 {
+	width: 10px;
+	height: 10px;
+	background: #414141;
+	display: block;
+	transform: rotate(45deg);
+	position: absolute;
+	bottom: -15px;
+	left: 56%;
+}
+.title .span-b-2 {
+	width: 10px;
+	height: 10px;
+	background: #414141;
+	display: block;
+	transform: rotate(45deg);
+	position: absolute;
+	bottom: -15px;
+	left: 44%;
+}
+.title:after {
+    content: "";
+    height: 3px;
+    width: 50%;
+    right: 0;
+    bottom: -12px;
+    background: silver;
+    position: absolute;
+    z-index: -9;
+}
+.title:before {
+    content: "";
+    height: 3px;
+    width: 50%;
+    left: 0;
+    bottom: -12px;
+    background: silver;
+    position: absolute;
+    z-index: -9;
+}
+/*our footer blogh area start*/
+.five {
+	width: 1349px;
+	height: 400px;
+	background: #717F84;
+	position: relative;
+	top: 300px;
+
+}
+.five p {
+	color: #FFB100;
+	font-size: 22px;
+	position: absolute;
+	left: 978px;
+	top: 2px;
+}
+.five span {
+	color: #FFB100;
+	font-size: 22px;
+	position: absolute;
+	top: 23px;
+	left: 480px;
+}
+.five .fi-1  {
+	width: 400px;
+	height: 350px;
+	background: #717F84;
+	position: absolute;
+	left: 450px;
+	top: 50px;
+
+}
+.five .fi-1 a {
+	color: #454545;
+	text-decoration: none;
+}
+.five .fi-2 {
+	width: 400px;
+	height: 350px;
+	background: #717F84;
+	position: absolute;
+	left: 500px;
+	bottom: 0;
+	top: 0;
+}
+
+ul {
+	width: 100px;
+	text-decoration: none;
+}
+ul li {
+	list-style: none;
+	font-size: 20px;
+	margin-bottom: 10px;
+
+	position: relative;
+}
+ul li:hover {
+	color: orange;
+}
+ul li:before {
+    content: "\f105";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 700;
+    position: absolute;
+    left: -11px;
+    top: 1px;
+    transition: .3s;
+}
+ul li:hover:before {
+	content: "\f101";
+	font-family: "Font Awesome 5 Free";
+	left: -15px;
+	color: red;
+}
+
+
+.five  .link {
+	width: 500px;
+	height: 100px;
+	background: #717F84;
+	position: absolute;
+	top: 300px;
+}
+.link .fa-facebook {
+	color: #fff;
+	font-size: 50px;
+	background: #3C5B9C;
+	border-radius: 5px;
+	position: absolute;
+	top: 25px;
+	left: 20px;
+	transition: .2s;
+}
+.link .fa-facebook:hover {
+	color: #3C5B9C;
+	background: #fff;
+	font-size: 60px;
+}
+.link .fa-youtube {
+	color: #fff;
+	font-size: 50px;
+	background: red;
+	border-radius: 5px;
+	position: absolute;
+	top: 25px;
+	left: 100px;
+	transition: .2s;
+}
+.link .fa-youtube:hover {
+	color: red;
+	background: #fff;
+	font-size: 60px;
+}
+.link .fa-behance {
+	color: #fff;
+	font-size: 50px;
+	background: #0F70D9;
+	border-radius: 5px;
+	position: absolute;
+	top: 25px;
+	left: 190px;
+	transition: .2s;
+}
+.link .fa-behance:hover {
+	color: #0F70D9;
+	background: #fff;
+	font-size: 60px;
+}
+.link .fa-dropbox {
+	color: #fff;
+	font-size: 50px;
+	background: #0062FF;
+	border-radius: 5px;
+	position: absolute;
+	top: 25px;
+	left: 280px;
+	transition: .2s;
+}
+.link .fa-dropbox:hover {
+	color: #0062FF;
+	background: #fff;
+	font-size: 60px;
+}
+.link .fa-dribbble {
+	color: #fff;
+	font-size: 50px;
+	background: #C32361;
+	border-radius: 5px;
+	position: absolute;
+	top: 25px;
+	left: 365px;
+	transition: .2s;
+}
+.link .fa-dribbble:hover {
+	color: #C32361;
+	background: #fff;
+	font-size: 60px;
+}
+
+.phone p {
+	width: 400px;
+	height: 50px;
+	color: green;
+	font-size: 30px;
+	text-align: center;
+	background: #717F84;
+	position: absolute;
+	top: 50px;
+	left: 30px;
+}
+.phone p:before {
+	content: "\f2a0";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 700;
+	font-size: 40px;
+	color: #fff;
+	width: 60px;
+	height: 50px;
+	background: #717F84;
+	position: absolute;
+	left: 0;
+}
+.phone .mail {
+	width: 400px;
+	height: 50px;
+	background: #717F84;
+	color: green;
+	font-size: 30px;
+	text-align: right;
+	position: absolute;
+	top: 140px;
+	left: 30px;
+
+}
+.phone .mail:before {
+	content: "\f01c";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 700;
+	font-size: 40px;
+	color: #fff;
+	width: 60px;
+	height: 50px;
+	background: #717F84;
+	position: absolute;
+	left: 0;
+}
+/*our footer blogh area end*/
+
